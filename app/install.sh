@@ -9,4 +9,4 @@ pip install -r requirements.txt
 
 # Run the Flask application with Gunicorn for production deployment
 # 4 worker processes, binding to port 5000
-gunicorn -w 4 -b 0.0.0.0:5000 app:app
+gunicorn -w 4 -b 0.0.0.0:5000 main:app
