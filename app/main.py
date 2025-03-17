@@ -113,6 +113,10 @@ def answer_question():
 def health_check():
     return jsonify({"status": "healthy"})
 
+@app.route('/', methods=['GET'])
+def health_check():
+    return jsonify({"status": "running"})
+
 
 if __name__ == '__main__':
     # For newer Flask versions, use before_first_request differently
