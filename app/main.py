@@ -85,7 +85,7 @@ def initialize_rag_system(api_key):
     return rag_chain
 
 # Initialize RAG system on startup
-@app.before_first_request
+@app.before_request
 def before_first_request():
     global rag_chain
     api_key = os.environ.get("GOOGLE_API_KEY")
@@ -109,13 +109,9 @@ def answer_question():
 
 
 # Health check endpoint
-@app.route('/health', methods=['GET'])
+@app.route('/api/health', methods=['GET'])
 def health_check():
     return jsonify({"status": "healthy"})
-
-@app.route('/', methods=['GET'])
-def health_check():
-    return jsonify({"status": "running"})
 
 
 if __name__ == '__main__':
@@ -126,4 +122,4 @@ if __name__ == '__main__':
         raise ValueError("GOOGLE_API_KEY environment variable is not set")
     rag_chain = initialize_rag_system(api_key)
     
-    app.run(host='0.0.0.0', port=5000, debug=False)
+    app.run(host='0.0.0.0', port=5000, debug=True)
