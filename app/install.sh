@@ -17,12 +17,12 @@ mkdir -p chroma_db
 # Install required packages
 pip install -r requirements.txt
 
-sudo apt install nginx -y
+#sudo apt install nginx -y
 
-sudo systemctl start nginx
-sudo systemctl status nginx
+#sudo systemctl start nginx
+#sudo systemctl status nginx
 
-sudo bash ./setup_nginx.sh
+#sudo bash ./setup_nginx.sh
 sudo ufw allow 'Nginx Full'
 
 
