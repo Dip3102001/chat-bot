@@ -17,13 +17,13 @@ def initialize_rag_system(api_key):
     
     # Load documents
     loader = DirectoryLoader(
-        path="./data",  # Change this to your data directory
+        path="./Bundle",  # Change this to your data directory
         glob="*.txt",
         loader_cls=TextLoader
     )
     
     json_loader = JSONLoader(
-        file_path="./data/experience.json",  # Change this to your JSON file path
+        file_path="./Bundle/experience.json",  # Change this to your JSON file path
         jq_schema='.[]',
         content_key="message"
     )
@@ -122,4 +122,4 @@ if __name__ == '__main__':
         raise ValueError("GOOGLE_API_KEY environment variable is not set")
     rag_chain = initialize_rag_system(api_key)
     
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=8080, debug=True)
