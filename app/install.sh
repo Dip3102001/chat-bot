@@ -28,4 +28,4 @@ sudo ufw allow 'Nginx Full'
 
 # Run the Flask application with Gunicorn for production deployment
 # 4 worker processes, binding to port 8080
-gunicorn -w 4 -b 0.0.0.0:8080 main:app
+gunicorn -w 4 -b 0.0.0.0:8080 main:app &
