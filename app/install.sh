@@ -23,7 +23,7 @@ sudo systemctl start nginx
 sudo systemctl status nginx
 
 sudo bash ./setup_nginx.sh
-
+sudo ufw allow 'Nginx Full'
 
 
 # Run the Flask application with Gunicorn for production deployment
