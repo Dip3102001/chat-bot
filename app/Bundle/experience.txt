@@ -1,0 +1,392 @@
+Detailed Skills Analysis
+Let me provide a more detailed breakdown of your skills, explaining how each was developed and demonstrated through your education, work experience, and projects.
+Technical Skills
+Programming Languages
+Python
+
+Developed at: ISRO internship, various projects, self-learning
+Demonstrated in:
+
+Sea Ice Classification (ISRO): Used Python for implementing both CONV-LSTM and ResNet-34 models, achieving 97.33% and 96% accuracy respectively
+Image Colorization: Implemented GAN architecture in Python for converting grayscale images to color
+Clickbait Generation and Classification: Used Python with transformer models to achieve 77.53% accuracy in classification
+Automation scripts at ISRO: Developed Python scripts to automate SAR image pre-processing, reducing time by 80%
+
+
+
+C++
+
+Developed at: University courses, personal projects
+Demonstrated in:
+
+Camera Placement Optimization project (ECE-650): Used for graph representation, shortest path algorithms, and CNF transformation
+Enigma Machine Simulation: Implemented the encryption mechanisms of the historical Enigma machine
+Wallbreaker Game: Created game logic and interface in C++
+
+
+
+C
+
+Developed at: University coursework, Enigma project
+Demonstrated in: Enigma Machine Simulation for low-level operations
+
+JavaScript
+
+Developed at: Web development projects, freelance work
+Demonstrated in:
+
+Chess Game Application: Used with Angular for frontend interactions
+Image Colorization web interface: Implemented interactive elements
+WhatsApp Clone: Used for client-side functionality
+
+
+
+Java/Kotlin
+
+Developed at: Android development coursework
+Demonstrated in: WhatsApp Clone Android application development, including UI components and backend integration
+
+Web & Mobile Development
+Angular
+
+Developed at: Self-learning, University of Waterloo projects
+Demonstrated in:
+
+Chess Game Application: Created the entire frontend with Angular and DaisyUI, implementing game logic and UI
+Image Colorization web interface: Used for component-based architecture
+
+
+
+React
+
+Developed at: Self-learning, Image Colorization project
+Demonstrated in: Mobile application frontend for Image Colorization project, providing an intuitive user interface
+
+Node.js
+
+Developed at: Freelance work at Liqnte, Chess Game project
+Demonstrated in:
+
+Liqnte backend: Developed a complete backend system with MySQL integration
+Chess Game Application: Used for server-side logic
+Image Colorization: Used with Flask for backend processing
+
+
+
+Flask
+
+Developed at: Image Colorization project
+Demonstrated in: Served as the backend for the Image Colorization mobile application, handling image processing requests
+
+Tailwind CSS
+
+Developed at: Chess Game project
+Demonstrated in: Styling the responsive UI of the Chess Game Application
+
+Android Development
+
+Developed at: University coursework at Birla Vishvakarma Mahavidyalaya
+Demonstrated in:
+
+WhatsApp Clone: Implemented features like real-time messaging, authentication, chat history storage, and push notifications
+Mobile interfaces: Created user-friendly mobile interfaces with Java/Kotlin
+
+
+
+Machine Learning & AI
+Deep Learning
+
+Developed at: Self-learning through Stanford's Prof. Andrew Ng's lectures and IIT Madras courses, ISRO internship
+Demonstrated in:
+
+Sea Ice Classification: Implemented and compared CONV-LSTM and ResNet-34 models
+Image Colorization: Developed GAN architecture with UNET-based generator
+Clickbait Generation: Fine-tuned transformer models for text generation and classification
+
+
+
+PyTorch
+
+Developed at: Self-learning, ISRO internship, Clickbait project
+Demonstrated in:
+
+Sea Ice Classification: Implemented neural network architectures
+Clickbait Generation and Classification: Built and fine-tuned transformer models
+Machine Health Diagnosis at Cistel: Currently using for model development
+
+
+
+TensorFlow
+
+Developed at: Self-learning, Image Colorization project
+Demonstrated in: Alternative implementation pathway for Image Colorization GAN architecture
+
+Natural Language Processing
+
+Developed at: MSCI 641 Text Analytics course (98 grade), Clickbait project
+Demonstrated in:
+
+Clickbait Generation and Classification: Applied advanced NLP techniques for text analysis and generation
+Course projects: Implemented text classification, sentiment analysis, and other NLP tasks
+
+
+
+Transformer Models
+
+Developed at: Self-learning, Clickbait project
+Demonstrated in: Fine-tuned pre-trained transformer models for clickbait classification (77.53% accuracy) and generation (0.299 METEOR score)
+
+GANs (Generative Adversarial Networks)
+
+Developed at: Self-learning, Image Colorization project
+Demonstrated in: Core architecture of the Image Colorization project, with generator and discriminator networks
+
+CONV-LSTM
+
+Developed at: ISRO internship
+Demonstrated in: Primary model for Sea Ice Classification, leveraging temporal resolution of SAR images for 97.33% accuracy
+
+CNN (Convolutional Neural Networks)
+
+Developed at: Self-learning, ISRO internship
+Demonstrated in: Implementation of ResNet-34 for Sea Ice Classification (96% accuracy)
+
+Database Systems
+MySQL
+
+Developed at: Freelance work at Liqnte
+Demonstrated in: Designed and optimized database schemas for efficient data storage and retrieval
+
+SQLite
+
+Developed at: WhatsApp Clone project
+Demonstrated in: Implemented local database for persistent chat history storage
+
+Cloud & Backend
+Firebase
+
+Developed at: WhatsApp Clone project
+Demonstrated in: Real-time messaging functionality, authentication, and notifications
+
+Google Cloud Platform (GCP)
+
+Developed at: WhatsApp Clone project
+Demonstrated in: Backend infrastructure and service integration
+
+API Integration
+
+Developed at: ISRO internship, web development projects
+Demonstrated in:
+
+ASF-VERTEX integration: Automated data acquisition from the ASF-VERTEX platform
+Web applications: Connected frontend and backend systems through RESTful APIs
+
+
+
+Tools & Technologies
+Git
+
+Developed at: University coursework, all projects
+Demonstrated in: Version control across multiple collaborative projects
+
+Linux
+
+Developed at: University coursework, Camera Placement project
+Demonstrated in: Development environment for Camera Placement Optimization, shell scripting at ISRO
+
+ESA SNAP (GPT)
+
+Developed at: ISRO internship
+Demonstrated in: Automated SAR image denoising, reducing processing time from 25 to 5 minutes per image
+
+ASF-VERTEX
+
+Developed at: ISRO internship
+Demonstrated in: Created shell scripts for batch downloading SAR images
+
+ArcGIS
+
+Developed at: ISRO internship
+Demonstrated in: Spatial data visualization and analysis for Sea Ice Classification
+
+Arduino
+
+Developed at: First-year project at Birla Vishvakarma Mahavidyalaya
+Demonstrated in: Bluetooth-Controlled Car project, integrating hardware and software
+
+Algorithmic & Mathematics Skills
+Algorithm Design & Analysis
+
+Developed at: ECE 606 course (78 grade), various projects
+Demonstrated in:
+
+Camera Placement Optimization: Implemented shortest path algorithms and SAT solvers
+Chess Game Application: Implemented chess game logic and move validation
+Coding competitions: Participated in Google Code Jam 2021, advancing to Round 2
+
+
+
+Graph Algorithms
+
+Developed at: ECE 606, Camera Placement project
+Demonstrated in: Implementation of vertex and edge representation, shortest path algorithms in Camera Placement Optimization
+
+Linear Algebra
+
+Developed at: Self-learning for machine learning foundations
+Demonstrated in: Implementation of neural networks and deep learning models
+
+Probability & Statistics
+
+Developed at: Self-learning for machine learning, university coursework
+Demonstrated in: Model evaluation, uncertainty quantification in machine learning projects
+
+Optimization
+
+Developed at: Currently studying in ECE 602, applied in various ML projects
+Demonstrated in: Hyperparameter tuning, model optimization in deep learning projects
+
+Software Engineering Skills
+Software Engineering Methods & Tools
+
+Developed at: ECE 650 course (91 grade)
+Demonstrated in: Systematic approach to software development in Camera Placement project and other applications
+
+System Design
+
+Developed at: University coursework, professional projects
+Demonstrated in:
+
+Camera Placement Optimization: Multi-phase system design with increasing complexity
+Image Colorization: End-to-end pipeline from training to deployment
+Canteen Management System at Nesco: Requirement gathering to deployment
+
+
+
+Multiprocessing & Multithreading
+
+Developed at: Camera Placement project, ECE 650
+Demonstrated in: Implementation of parallel processing for optimization problems
+
+Inter-Process Communication
+
+Developed at: Camera Placement project, ECE 650
+Demonstrated in: Efficient data exchange between different system components
+
+Unit & Integration Testing
+
+Developed at: Camera Placement project, software engineering courses
+Demonstrated in: Comprehensive testing strategies for ensuring code quality
+
+Domain-Specific Knowledge
+Remote Sensing
+
+Developed at: ISRO internship
+Demonstrated in: Working with SAR images for Arctic sea ice monitoring
+
+SAR Image Analysis
+
+Developed at: ISRO internship
+Demonstrated in: Pre-processing, analyzing, and classifying SAR images for sea ice detection
+
+Cryptography
+
+Developed at: Enigma Machine Simulation project
+Demonstrated in: Implementation of encryption mechanisms based on historical Enigma machine
+
+Intelligent Systems Design
+
+Developed at: ECE 657 course (96 grade)
+Demonstrated in: Application of AI principles in multiple projects
+
+Data & Knowledge Modeling
+
+Developed at: Currently studying in ECE 657A course
+Demonstrated in: Approach to data representation in ML projects
+
+Soft Skills
+Analytical Thinking & Problem-Solving
+
+Developed at: Throughout academic career
+Demonstrated in:
+
+Approach to learning: Questioning concepts at a fundamental level
+Projects: Breaking down complex problems into solvable components
+Competitions: Strategic approach to Google Code Jam
+
+
+
+Adaptability & Open-Mindedness
+
+Developed at: Personal experiences, like the Manali trip
+Demonstrated in: Embracing new experiences (paragliding, trekking) despite initial hesitation
+
+Persistence & Continuous Learning
+
+Developed at: Self-directed learning, chess experience
+Demonstrated in:
+
+Chess mastery: Practicing until beating your father
+AI learning: Self-study through Stanford and IIT Madras courses
+Project iterations: Continuous improvement in all projects
+
+
+
+Creativity & Innovative Thinking
+
+Developed at: Drawing parallels between cooking and coding
+Demonstrated in: Finding unique solutions to technical problems across projects
+
+Leadership & Team Collaboration
+
+Developed at: Internships at Nesco and ISRO
+Demonstrated in:
+
+Nesco: Stakeholder communication and requirement gathering
+ISRO: Collaborative research environment
+Group projects: Contributing to team success
+
+
+
+Self-Motivation & Initiative
+
+Developed at: Self-directed learning of AI concepts
+Demonstrated in: Proactively pursuing knowledge beyond curriculum requirements
+
+Attention to Detail
+
+Developed at: Academic pursuits, technical projects
+Demonstrated in:
+
+Academic excellence: High grades (97 in ECE 657, 98 in MSCI 641)
+Technical implementation: Precise algorithm development and testing
+
+
+
+Educational Foundation
+Your skills have been built upon a strong educational foundation:
+
+University of Waterloo (Current)
+
+Master's in Electrical and Computer Engineering
+Relevant courses:
+
+ECE 657: Tools of Intelligent Systems Design (96)
+MSCI 641: Text Analytics (98)
+ECE 606: Algorithm Design and Analysis (78)
+ECE 650: Methods and Tools for Software Engineering (91)
+BE 601: Introduction to Financial and Managerial Accounting (91)
+Currently studying: ECE 602, ECE 613, ECE 657A
+
+
+
+
+Birla Vishvakarma Mahavidyalaya (Undergraduate)
+
+Bachelor's in Computer Engineering
+Ranked among top five students
+Foundation for programming, algorithms, and engineering principles
+
+
+
+This combination of formal education, practical experience through internships and projects, and self-directed learning has created a well-rounded skill set that spans technical expertise, problem-solving abilities, and essential soft skills for professional success.

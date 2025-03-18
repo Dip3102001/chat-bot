@@ -1,0 +1,27 @@
+1. Tell me about yourself.
+I am a highly curious and detail-oriented individual with a strong passion for problem-solving and innovation. Currently pursuing a Master's in Electrical and Computer Engineering at the University of Waterloo, I am actively working on side projects to enhance my technical skills and employability. My academic journey has been marked by a deep interest in AI, machine learning, and embedded systems, which I have explored through internships, projects, and self-driven learning. Beyond academics, I enjoy cooking, discussing global developments, and staying updated on technological advancements through podcasts and online resources.
+
+
+How do you stay updated with the latest industry trends?
+I maintain a deliberate approach to staying current with industry developments. Daily, I dedicate at least 30 minutes to watching podcasts about technological advancements, which has become an integral part of my routine. Beyond this, I actively participate in coding competitions to sharpen my skills, as evidenced by my participation in Google Code Jam 2021 where I advanced to Round 2. When I became interested in AI and big data during my undergraduate studies, I proactively sought out educational resources, completing Stanford's machine learning lecture series by Prof. Andrew Ng and following up with deep learning courses from IIT Madras. This self-directed learning approach has consistently helped me identify emerging trends and acquire relevant skills before they become mainstream requirements.
+
+
+Have you ever led a project or taken ownership of a task?
+Yes, I led the Image Colorization project during my undergraduate studies, where I implemented a GAN-based model for transforming grayscale images into high-quality colored visuals. I took ownership of the entire process from concept to implementation, including selecting the UNET architecture for the generator to enhance spatial details and choosing the LAB color space to reduce computational complexity. Beyond just developing the core model, I expanded the project to include specialized applications such as medical image colorization for retinal scans and historical photograph restoration. I also built a real-time colorization mobile application with a Flask backend, demonstrating my ability to extend technical concepts into practical applications and see a project through from beginning to end.
+
+
+Tell me about a time you had to work under a tight deadline:
+During my internship at Nesco, we were tasked with developing an automated canteen management system with a one-month deadline for the MVP. The project required gathering stakeholder requirements, designing a solution, and implementing an AI-driven face recognition system for identification. Under this tight timeline, I prioritized effective stakeholder communication to ensure alignment on requirements and regular progress updates. I focused on developing core functionalities first while maintaining quality standards. By collaborating efficiently with my team and negotiating realistic expectations with stakeholders, we successfully delivered the MVP within the deadline, which satisfied the client enough to extend the project further.
+
+
+What programming languages, frameworks, or tools are you most proficient in?
+I'm proficient in Python, C++, and JavaScript, with experience in multiple frameworks. For AI/ML projects, I've worked extensively with PyTorch, demonstrated in my sea ice classification work at ISRO and the image colorization project using GANs. In web development, I've used Angular, as shown in my chess game application, and Node.js during my freelance work at Liqnte where I developed backend systems. I'm also comfortable with embedded systems programming through Arduino, as seen in my Bluetooth-controlled car project, and system design using Linux and Git for version control, demonstrated in my camera placement optimization project.
+
+
+Describe a challenging technical problem you solved:
+During my internship at ISRO, I faced the challenge of processing large SAR image datasets efficiently. The existing workflow required 25 minutes per image, creating a significant bottleneck. I developed an automated preprocessing pipeline using ESA's SNAP tool with GPT, implementing parallel execution that reduced processing time to just 5 minutes per image—an 80% improvement. Additionally, I created a shell script for batch downloading consecutive SAR images from ASF-VERTEX, eliminating manual effort entirely. This solution not only streamlined operations but also improved consistency in data quality, directly contributing to the accuracy of our deep learning models for sea ice classification.
+
+
+Tell me about yourself:
+I'm an Electrical and Computer Engineering Master's student at the University of Waterloo with a strong technical foundation and passion for problem-solving. My background spans software development, AI/ML applications, and embedded systems, demonstrated through various projects and professional experiences. At ISRO, I developed deep learning models for sea ice classification, achieving 97.33% accuracy with a Conv-LSTM model, while also automating SAR image preprocessing to reduce processing time by 80%. Currently, I'm working at Cistel on machine health diagnosis, where I've optimized experiment pipelines and set benchmarks on the Paderborn dataset. I have a natural curiosity for understanding concepts at a fundamental level, which drives my approach to both technical and personal challenges.
+

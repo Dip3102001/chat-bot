@@ -1,0 +1,74 @@
+University of Waterloo  
+200 University Ave. West  
+Waterloo Ontario Canada N2L3G1  
+
+Page 1 of 1  
+12/28/2024  
+
+**Graduate Unofficial Transcript**
+
+**Name:** Patel, Dip Vijaykumar  
+**Student ID:** 21114937  
+**Ontario Education No:** 307165548  
+
+---
+
+**Beginning of Graduate Record**
+
+**Spring 2024**
+
+| Program: | Electrical & Computer Engineering, MEng |
+|---|---|
+| Attendance: Full-Time    | Term: 1.00    Status: Enrolment    |
+
+| Course    | Description    | Attempted | Earned | Grade |
+|---|---|---|---|---|
+| ACINTY    | 620    | Academic Integrity Module    | 0.00   | 0.00   | CR    |
+| Instructor:    |    | Julie Platek    |    |    |    |
+| ECE    | 657    | Tools of Intelligent Systems Design    | 0.50   | 0.50   | 96    |
+| Instructor:    |    | Amir-Hossein Karimi    |    |    |    |
+| GS    | -    | Continuing Graduate Studies    | 0.00   | 0.00   |    |
+| MSCI    | 641    | Text Analytics    | 0.50   | 0.50   | 98    |
+| Instructor:    |    | Olga Vechtomova    |    |    |    |
+
+| Term GPA    | 97.00    |    |    |    |
+|---|---|---|---|---|
+| Cumulative GPA    | 97.00    |    |    |    |
+
+**Fall 2024**
+
+| Program: | Electrical & Computer Engineering, MEng |
+|---|---|
+| Attendance: Full-Time    | Term: 2.00    Status: Enrolment    |
+
+| Course    | Description    | Attempted | Earned | Grade |
+|---|---|---|---|---|
+| BE    | 601    | Introduction to Financial and Managerial Accounting | 0.50   | 0.50   | 91    |
+| Instructor:    |    | Michelle Lennox    |    |    |    |
+| ECE    | 606    | Algorithm Design and Analysis    | 0.50   | 0.50   | 78    |
+| Instructor:    |    | Mahesh Tripunitara    |    |    |    |
+| ECE    | 650    | Methods and Tools for Software Engineering | 0.50   | 0.50   | 91    |
+| Instructor:    |    | Albert Wasef    |    |    |    |
+| GS    | -    | Continuing Graduate Studies    | 0.00   | 0.00   |    |
+
+| Term GPA    | 86.67    |    |    |    |
+|---|---|---|---|---|
+| Cumulative GPA    | 90.80    |    |    |    |
+
+**Winter 2025**
+
+| Program: | Electrical & Computer Engineering, MEng |
+|---|---|
+| Attendance: Full-Time    | Term: 3.00    Status: Enrolment    |
+
+| Course    | Description    | Attempted | Earned | Grade |
+|---|---|---|---|---|
+| ECE    | 602    | Introduction to Optimization    |    |    |
+| Instructor:    |    | Oleg Michailovich    |    |    |
+| ECE    | 613    | Image Processing and Visual Communication    |    |    |
+| Instructor:    |    | Zhou Wang    |    |    |
+| ECE    | 657A    | Data & Knowledge Modelling & Analysis    |    |    |
+| Instructor:    |    | Mark Crowley    |    |    |
+| GS    | -    | Continuing Graduate Studies    |    |    |
+
+**End of Graduate Unofficial Transcript**

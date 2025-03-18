@@ -1,0 +1,675 @@
+Early Childhood and Personal Interests
+I have always been a naturally curious individual, constantly questioning everything and striving to understand concepts at a fundamental level. This trait has set me apart and laid the foundation for my educational journey.
+
+Beyond academics, I have a strong interest in cooking, watching movies, and discussing global developments with friends over coffee. I make it a habit to watch at least one podcast daily for about half an hour to stay updated on the latest trends and technological advancements. These insights often become great conversation starters, even during casual interactions like elevator rides with strangers.
+
+Academic and Professional Journey
+Currently, I am pursuing a Master's in Electrical and Computer Engineering at the University of Waterloo while simultaneously working on various side projects to strengthen my skills and enhance my employability post-graduation. My daily routine revolves around coding, assignments, job applications, and self-sufficiency—cooking for myself being an essential part of it.
+
+Personality and Experiences
+I consider myself slightly introverted, which, as a lighthearted stereotype, aligns with the idea that many programmers are naturally reserved. However, I take my time to get comfortable in new and unfamiliar environments.
+
+A notable experience that reflects this aspect of my personality is a trip to Manali, India, with my friends before moving to Canada. Initially hesitant, I eventually gave in to their insistence, and it turned out to be a remarkable adventure. We engaged in activities like camping, trekking, rock climbing, river rafting, and paragliding—experiences I wouldn’t have pursued on my own. One of the most thrilling moments was riding on top of a car while ascending the valley. This journey taught me that stepping out of my comfort zone leads to unforgettable memories and personal growth.
+
+Over time, I have developed a passion for cooking, which I find strikingly similar to coding. Just as different programmers have unique ways of solving problems, chefs have distinct cooking styles—both ultimately achieving the same goal through different approaches. The process of sharing recipes parallels the way developers exchange coding solutions, and when executed well, both bring immense satisfaction.
+
+Interest in Games and Competitive Nature
+Since childhood, I have been passionate about games, both indoor and outdoor. I played cricket, football, and badminton with friends, but chess holds a special place in my heart. My father introduced me to chess, and I vividly remember struggling with the piece movements at first. However, with practice, I eventually became proficient enough to beat him.
+
+This competitive nature and love for problem-solving later extended into my programming endeavors. During my first term at the University of Waterloo, I created a chess game application using Angular in my spare time. The project not only strengthened my problem-solving skills but also allowed me to refresh my frontend development knowledge.
+
+Educational Background and Academic Achievements
+I completed my schooling in my hometown, where my curiosity drove me to question concepts at a fundamental level. Initially, I found studying tedious due to the sheer volume of information to memorize. However, as I grasped the underlying principles, learning became enjoyable.
+
+I completed my higher secondary education with distinction, ranking second among all CVM institutions and securing the highest marks in physics and mathematics. My fascination with computers began at an early age when my father bought a computer for our home. Though too young to understand its workings, I was always eager to explore and learn more. This curiosity led me to pursue a Bachelor's in Computer Engineering.
+
+Despite the disruptions caused by the global pandemic during my undergraduate years, I performed well, ranking among the top five students in my class. My primary goal was always to acquire new knowledge and apply it to solve real-world problems—an essential mindset for any engineer.
+
+Initially, I was deeply interested in coding and actively participated in programming competitions, sometimes winning and sometimes narrowly missing victory. I competed in Google Code Jam 2021, successfully advancing to Round 2 but was unable to continue due to ongoing examinations.
+
+Midway through my undergraduate studies, artificial intelligence and big data became industry-defining trends, sparking my curiosity. To deepen my understanding, I began watching YouTube tutorials and following industry leaders. I completed Stanford's renowned machine learning lecture series by Prof. Andrew Ng and later pursued deep learning studies through IIT Madras’ online courses.
+
+This journey made me realize that machine learning is an intricate combination of linear algebra, multivariate calculus, probability, statistics, optimization, and creativity. Recognizing the importance of strong mathematical foundations, I dedicated significant time to solidifying these concepts.
+
+To reinforce my learning, my friend and I decided to undertake a deep learning project in our third year—Image Colorization—which involved converting grayscale images into colored ones using Generative Adversarial Networks (GANs). Back then, GANs were among the most advanced generative models, achieving impressive results. Our project successfully produced high-quality colorized images, validating our approach.
+
+During my undergraduate years, I also worked on various other projects, including a simulation of the Enigma machine, a Wallbreaker game in C++, a WhatsApp clone for Android, and many more.
+
+Internships and Industry Experience
+I completed two internships during my undergraduate studies.
+
+Nesco Ltd. – The company sought to automate its canteen management system. My team and I gathered stakeholder requirements, proposed solutions, and developed a minimum viable product (MVP) within a month. The client was satisfied and chose to extend the project further.
+
+Indian Space Research Organization (ISRO) – My second internship was at ISRO, where I worked on developing an intelligent system for monitoring Arctic sea ice. The project aimed to enhance remote sensing capabilities using machine learning models.
+
+Conclusion
+From childhood curiosity to academic excellence, a competitive spirit, and hands-on project development, my journey has been shaped by an eagerness to learn, a passion for problem-solving, and a drive to push boundaries. My experiences in AI, software development, and real-world applications through internships have prepared me well for tackling complex engineering challenges.
+
+----
+
+1. Curiosity and Problem-Solving
+Incident: From an early age, you questioned everything and sought to understand concepts at a fundamental level. Your curiosity drove you to explore topics in-depth, from academics to personal interests like chess and programming.
+
+Quality: Analytical Thinking & Problem-Solving – Employers value candidates who can break down complex problems, ask the right questions, and seek optimal solutions rather than just following instructions. Your natural inclination toward deep understanding aligns well with roles requiring critical thinking and problem-solving skills.
+
+2. Adaptability and Stepping Out of Comfort Zone
+Incident: Initially hesitant to join your friends on the Manali trip, you eventually participated and embraced new experiences like trekking, rock climbing, river rafting, and paragliding.
+
+Quality: Adaptability & Open-Mindedness – In professional settings, adaptability is essential for tackling new challenges, working with diverse teams, and embracing change. Your experience demonstrates a willingness to push beyond initial hesitation and adapt to unfamiliar situations—an invaluable trait for fast-paced work environments.
+
+3. Perseverance and Growth Mindset
+Incident: Learning chess was challenging at first, but with practice, you improved and eventually beat your father at his own strengths. This later translated into developing a chess application during your first term at Waterloo.
+
+Quality: Persistence & Continuous Learning – Employers seek individuals who embrace challenges, persist despite difficulties, and continuously strive for improvement. Your ability to turn an initial struggle into mastery—whether in chess or programming—demonstrates resilience and a growth mindset.
+
+4. Creativity and Innovation
+Incident: Your love for cooking evolved into an appreciation for the parallels between coding and recipe creation, where different approaches can lead to the same successful outcome.
+
+Quality: Creativity & Innovative Thinking – Whether developing software or cooking a meal, innovation comes from experimenting with different approaches. Your perspective on coding and cooking showcases a creative mindset that can drive innovative solutions in a technical role.
+
+5. Leadership and Teamwork
+Incident: While working at Nesco Ltd., you gathered stakeholder requirements, proposed solutions, and helped develop a minimum viable product within a month. Similarly, at ISRO, you worked on a team-driven project for Arctic sea ice monitoring.
+
+Quality: Leadership & Team Collaboration – Companies value individuals who can take ownership, communicate effectively, and work collaboratively to deliver results. Your ability to lead discussions, translate requirements into technical solutions, and contribute to real-world projects highlights your leadership potential.
+
+6. Competitiveness and Striving for Excellence
+Incident: You actively participated in coding competitions like Google Code Jam, where you made it to Round 2 despite ongoing exams. Your undergraduate performance ranked among the top five students, and you consistently sought to apply knowledge in real-world projects.
+
+Quality: Drive for Excellence & Competitive Spirit – Recruiters look for candidates who are self-motivated, push themselves to excel, and thrive in competitive environments. Your commitment to challenges and competitive mindset reflects a strong work ethic and a desire to perform at the highest level.
+
+7. Independent Learning and Initiative
+Incident: You proactively explored AI by watching lectures from Stanford’s Prof. Andrew Ng and IIT Madras. You built a strong mathematical foundation before working on your Image Colorization project to deepen your knowledge.
+
+Quality: Self-Motivation & Initiative – Companies highly value candidates who take ownership of their learning and do not wait for formal training to develop new skills. Your proactive approach to mastering AI and deep learning showcases your ability to take initiative and continuously improve.
+
+8. Attention to Detail and Technical Rigor
+Incident: Your methodical approach to studying—shifting from memorization to understanding fundamental principles—enabled you to excel in academics and rank second in your institution.
+
+Quality: Attention to Detail & Technical Precision – In technical roles, meticulousness is critical. Your commitment to understanding concepts deeply rather than just memorizing them demonstrates your ability to approach tasks with precision and a strong technical foundation.
+
+Final Thoughts
+Each of your childhood experiences and academic/professional milestones aligns with key qualities that recruiters seek in candidates. Whether it’s problem-solving, adaptability, leadership, or creativity, your journey demonstrates that you possess the mindset and skills needed to thrive in a dynamic workplace.
+
+----
+
+Professional Experience
+
+
+Project Intern
+Company: Cistel
+Duration: Jan 2025 - Present
+
+Machine Health Diagnosis: Contributing to an industry-sponsored project at Cistel focused on diagnosing the health of machine equipment.
+
+Research & Methodology Enhancement: Conducted a literature review and iteratively improved strategies to achieve superior results.
+
+Optimized Experiment Pipeline: Developed an end-to-end pipeline, reducing experiment execution time by 50% and enabling quick feedback for improvements.
+
+Benchmark Achievement: Set a new benchmark on the Paderborn dataset for fault diagnosis through refined methodologies.
+
+
+Research Intern
+Company: Indian Space Research Organization (ISRO)
+Duration: Jan 2023 - May 2023
+Location: Ahmedabad, India (On-site)
+
+Developed Deep Learning Models: Trained Conv-LSTM (97.33% accuracy) and ResNet-34 (96% accuracy) on the SI-STSAR-7 dataset, selecting Conv-LSTM for final predictions.
+
+Optimized Preprocessing Pipeline: Automated SAR image denoising using SNAP’s GPT, reducing processing time from 25 minutes to 5 minutes per image (4x speed-up).
+
+Automated Data Acquisition: Created a shell script for batch downloading 6 consecutive SAR images from ASF-VERTEX, eliminating manual effort.
+
+Improved Scalability & Performance: Streamlined large-scale SAR image processing, cutting manual workload from hours to minutes through automation.
+
+Web Development Relevance: Gained experience in backend automation, API integration, and cloud-based data processing, applicable to web-based applications.
+
+
+Freelance Developer
+Company: Liqnte
+Duration: Sep 2022 - Oct 2022
+Location: New Zealand (Remote)
+
+Developed a backend system using Node.js and integrated a MySQL database for efficient data storage.
+
+Collaborated with a colleague to design and optimize MySQL database schemas, ensuring robust and scalable data management.
+
+Gained hands-on experience in system design and backend development to enhance practical knowledge.
+
+
+Web Development Intern
+Company: Nesco
+Duration: May 2022 - Jun 2022
+Location: Gujarat, India
+
+Canteen Management System: Designed and implemented an automated canteen management system to reduce manual work and increase efficiency.
+
+AI-Driven Face Recognition: Developed an image-processing-based identification system to minimize user interaction.
+
+Stakeholder Communication: Negotiated with stakeholders to ensure smooth deployment of the final product.
+
+Backend & API Integration: Enhanced knowledge of handling APIs, version control (Git), and deploying systems on dedicated servers.
+
+-----
+
+Projects :- 
+
+{
+    id: "chess-game",
+    title: "Chess Game Application",
+    image: "/chess.jpg",
+    timeline: "Jan 2024 - Mar 2024",
+    shortDescription: "A fully functional chess game with intuitive UI (In-Dev)",
+    description: "This project is a fully functional chess game application, built with a focus on intuitive gameplay, smooth user experience, and robust game logic. The application features a well-implemented chess engine that accurately enforces game rules, validates legal moves, and detects check, checkmate, and stalemate conditions.",
+    
+    // Features list
+    features: [
+      {
+        title: "Two-Player Mode",
+        description: "Play against a friend locally"
+      },
+      {
+        title: "Move Validation",
+        description: "Ensures only legal moves are allowed"
+      },
+      {
+        title: "Check & Checkmate Detection",
+        description: "Identifies game-ending conditions"
+      },
+      {
+        title: "Piece Highlighting",
+        description: "Shows possible moves for selected pieces"
+      },
+      {
+        title: "Responsive UI",
+        description: "Provides a seamless experience across different screen sizes"
+      },
+      {
+        title: "Game State Management",
+        description: "Keeps track of moves and board history"
+      }
+    ],
+    
+    // Technologies list
+    technologies: [
+      {
+        category: "Frontend",
+        details: "Angular with DaisyUI"
+      },
+      {
+        category: "Backend",
+        details: "Node.js"
+      },
+      {
+        category: "Styling",
+        details: "Tailwind CSS"
+      }
+    ],
+    
+    // Skills showcased (new section)
+    skills: [
+      "Frontend Development", "Angular", "JavaScript", "Game Development", 
+      "Algorithm Design", "Responsive Design"
+    ],
+    
+    // Links
+    links: [
+      {
+        type: "github",
+        url: "https://github.com/username/chess-game",
+        title: "Source Code",
+        description: "View the complete source code on GitHub"
+      }
+      // {
+      //   type: "external",
+      //   url: "https://chess-game-demo.example.com",
+      //   title: "Live Demo",
+      //   description: "Try the chess game application online"
+      // }
+    ]
+  },
+
+  {
+    "id": "camera-placement-optimization",
+    "title": "Optimized Camera Placement System",
+    "image": "/camoptix.webp",
+    "timeline": "ECE-650 Project",
+    "shortDescription": "A system for optimizing street camera placement using graph theory and SAT solvers.",
+    "description": "This project focused on optimizing camera placement on streets to ensure maximum coverage of intersections and roadways. It was executed in four iterative phases, each addressing a critical aspect of the problem. The first phase involved identifying street intersections on a given map, representing crossings as vertices and roads as edges. The second phase implemented an algorithm to compute the shortest path between vertices. The third phase introduced a randomized input generator for testing the algorithm, incorporating inter-process communication to enhance workflow efficiency. In the final phase, the problem was transformed into Conjunctive Normal Form (CNF), and an off-the-shelf SAT solver was used to determine the minimum number of intersections required for camera coverage.",
+    
+    "features": [
+      {
+        "title": "Graph Representation",
+        "description": "Models intersections as vertices and roads as edges."
+      },
+      {
+        "title": "Shortest Path Calculation",
+        "description": "Implements an algorithm to compute optimal routes."
+      },
+      {
+        "title": "Randomized Input Generator",
+        "description": "Generates test cases to validate the algorithm."
+      },
+      {
+        "title": "Inter-Process Communication",
+        "description": "Facilitates efficient data exchange between processes."
+      },
+      {
+        "title": "SAT Solver Integration",
+        "description": "Determines the minimal camera coverage using CNF transformation."
+      }
+    ],
+    
+    "technologies": [
+      {
+        "category": "Programming Languages",
+        "details": "C++, Python"
+      },
+      {
+        "category": "Operating System",
+        "details": "Linux"
+      },
+      {
+        "category": "Version Control",
+        "details": "Git"
+      },
+      {
+        "category": "System Design",
+        "details": "Multiprocessing, Multithreading, Inter-Process Communication"
+      }
+    ],
+    
+    "skills": [
+      "Graph Algorithms", "C++", "Python", "Linux", "Git", 
+      "Multiprocessing", "Multithreading", "Inter-Process Communication", 
+      "Unit Testing", "Integration Testing", "SAT Solvers"
+    ],
+    
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/username/camera-placement",
+        "title": "Source Code",
+        "description": "View the complete source code on GitHub"
+      }
+    ]
+  },
+
+  {
+    "id": "clickbait-generation-classification",
+    "title": "Clickbait Generation and Classification",
+    "image": "clickbait.jpg",
+    "timeline": "May 2024 - Aug 2024",
+    "shortDescription": "A project focused on classifying and generating clickbait headlines using transformer models.",
+    "description": "This project tackled two key challenges in social media analytics: clickbait classification and clickbait generation. The first task involved predicting the most suitable clickbait for posts sourced from platforms like Reddit and Twitter. Various machine learning and deep learning models were tested, with pre-trained transformer models achieving the highest accuracy of 77.53%, outperforming the best SemEval 2023 score of 74%. The second task focused on generating clickbait headlines for given posts. Due to limited training data and computational constraints, a pre-trained sequence-to-sequence transformer model was fine-tuned instead of training from scratch. This approach achieved a strong METEOR score of 0.299, demonstrating the model's ability to produce high-quality, contextually relevant clickbait headlines. The project enhanced my expertise in transformer-based architectures, text classification, and sequence generation in NLP applications.",
+    
+    "features": [
+      {
+        "title": "Clickbait Classification",
+        "description": "Predicts the most suitable clickbait for social media posts."
+      },
+      {
+        "title": "Clickbait Headline Generation",
+        "description": "Generates contextually relevant clickbait headlines using a transformer-based model."
+      },
+      {
+        "title": "Transformer-Based NLP",
+        "description": "Utilizes pre-trained transformer models for both classification and generation tasks."
+      },
+      {
+        "title": "Performance Optimization",
+        "description": "Achieved an accuracy of 77.53% for classification and a METEOR score of 0.299 for generation."
+      }
+    ],
+    
+    "technologies": [
+      {
+        "category": "Machine Learning Framework",
+        "details": "PyTorch"
+      },
+      {
+        "category": "Programming Language",
+        "details": "Python"
+      },
+      {
+        "category": "Deep Learning Models",
+        "details": "Transformers, Large Language Models (LLMs)"
+      },
+      {
+        "category": "Natural Language Processing",
+        "details": "Text Classification, Sequence Generation"
+      }
+    ],
+    
+    "skills": [
+      "Machine Learning", "Deep Learning", "Natural Language Processing (NLP)", 
+      "Python", "PyTorch", "Transformer Models", "Large Language Models (LLM)", 
+      "Text Classification", "Sequence Generation"
+    ],
+    
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/username/clickbait-project",
+        "title": "Source Code",
+        "description": "View the complete source code on GitHub"
+      }
+    ]
+  },
+  {
+    "id": "sea-ice-classification",
+    "title": "Sea Ice Classification from SAR Images",
+    "image": "/sea-ice.webp",
+    "timeline": "Jan 2023 - Apr 2023",
+    "shortDescription": "Developed a deep learning model for classifying sea ice using SAR images during an internship at ISRO.",
+    "description": "During my final semester internship at the Indian Space Research Organisation (ISRO), I worked under the Microwave Data Processing Department (MDPD) on the project 'Sea Ice Classification from SAR (Synthetic Aperture Radar) Images.' Using the SI-STSAR-7 dataset from the IEEE Data Portal, I analyzed temporally spaced SAR image stacks to develop a robust classification model. I compared the performance of a CONV-LSTM model and a ResNet-34 CNN model, achieving 97.33% and 96% accuracy, respectively. The CONV-LSTM model, which leveraged the temporal resolution of SAR images, outperformed the CNN and was used for final predictions. Additionally, I automated SAR image pre-processing using Python scripts integrated with ESA’s SNAP (GPT) tool, reducing processing time by 80% through parallel execution. I also developed a shell script to streamline consecutive SAR image downloads from ASF-VERTEX, ensuring efficiency and consistency. The project enhanced my skills in deep learning, image processing, and automation, contributing to advancements in remote sensing technologies for polar research.",
+    
+    "features": [
+      {
+        "title": "Deep Learning-Based Classification",
+        "description": "Implemented CONV-LSTM and ResNet-34 models for sea ice classification."
+      },
+      {
+        "title": "High-Accuracy Model",
+        "description": "Achieved 97.33% accuracy with the CONV-LSTM model."
+      },
+      {
+        "title": "Automated Image Pre-Processing",
+        "description": "Reduced SAR image pre-processing time by 80% using parallel execution with ESA’s SNAP tool."
+      },
+      {
+        "title": "Optimized Data Downloading",
+        "description": "Developed shell scripts for automated SAR image downloads from ASF-VERTEX."
+      }
+    ],
+    
+    "technologies": [
+      {
+        "category": "Deep Learning Framework",
+        "details": "PyTorch"
+      },
+      {
+        "category": "Programming Languages",
+        "details": "Python, Shell Scripting"
+      },
+      {
+        "category": "Remote Sensing Tools",
+        "details": "ESA SNAP (GPT), ASF-VERTEX, ArcGIS"
+      },
+      {
+        "category": "Machine Learning Models",
+        "details": "CONV-LSTM, ResNet-34"
+      }
+    ],
+    
+    "skills": [
+      "Image Processing", "Machine Learning", "Deep Learning", 
+      "Model Optimization", "Python", "PyTorch", "Shell Scripting", 
+      "ArcGIS", "Automated Data Processing"
+    ],
+    
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/username/sea-ice-classification",
+        "title": "Source Code",
+        "description": "View the complete source code on GitHub"
+      }
+    ]
+  },
+  {
+    "id": "image-colorization",
+    "title": "Deep Learning-Based Image Colorization",
+    "image": "color.webp",
+    "timeline": "Jul 2022 - Dec 2022",
+    "shortDescription": "Implemented a GAN-based model for transforming grayscale images into high-quality colored visuals.",
+    "description": "The Image Colorization project utilizes deep learning techniques to convert grayscale images into semantically accurate and vivid colorized visuals. A Generative Adversarial Network (GAN) framework is employed, with a generator predicting plausible color distributions and a discriminator assessing realism. A UNET architecture enhances spatial details, while the LAB color space reduces computational complexity by focusing only on the color channels. The model was trained on the MIRFLICKR25k dataset, containing 25,000 grayscale images with corresponding color labels. The project addresses key challenges such as color ambiguity and variability in natural scenes. Beyond general colorization, specialized applications were explored, including medical image colorization (retinal scans) and restoration of historical photographs and videos. A real-time colorization mobile application was also developed using a client-server model with Flask as the backend. Future enhancements include integrating WGAN-GP for training stability, attention mechanisms for finer detail, and optimizing video colorization for smoother transitions.",
+    
+    "features": [
+      {
+        "title": "GAN-Based Colorization",
+        "description": "Implemented a GAN model with a UNET-based generator for improved spatial detail preservation."
+      },
+      {
+        "title": "Real-Time Mobile Application",
+        "description": "Developed a mobile app with a Flask backend for real-time image colorization."
+      },
+      {
+        "title": "Specialized Applications",
+        "description": "Explored medical diagnostics (retina image colorization) and historical image restoration."
+      },
+      {
+        "title": "Future Improvements",
+        "description": "Plans to integrate WGAN-GP, attention mechanisms, and video colorization optimization."
+      }
+    ],
+    
+    "technologies": [
+      {
+        "category": "Deep Learning Frameworks",
+        "details": "PyTorch, TensorFlow"
+      },
+      {
+        "category": "Programming Languages",
+        "details": "Python, JavaScript"
+      },
+      {
+        "category": "Web & Mobile Development",
+        "details": "React, Angular, Flask, Node.js, Spring Boot"
+      },
+      {
+        "category": "Computer Vision Techniques",
+        "details": "GANs, UNET, LAB Color Space"
+      }
+    ],
+    
+    "skills": [
+      "Generative AI", "Deep Learning with GANs", "Image Processing",
+      "PyTorch", "Python", "Model Optimization", "Web Development",
+      "Flask Backend Development"
+    ],
+    
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/username/image-colorization",
+        "title": "Source Code",
+        "description": "View the complete source code on GitHub"
+      }
+    ]
+  },
+  {
+    "id": "whatsapp-clone",
+    "title": "WhatsApp Clone",
+    "image": "/wp.png",
+    "timeline": "May 2022 - Dec 2022",
+    "shortDescription": "A messaging app inspired by WhatsApp with real-time chat and authentication.",
+    "description": "As part of our end-semester Android project at Birla Vishvakarma Mahavidyalaya, we developed a WhatsApp-inspired messaging application to explore various Android development concepts. The app features a user-friendly UI for seamless interaction, mobile number-based authentication for secure access, and real-time message notifications powered by Firebase. Additionally, SQLite was used to maintain chat history, ensuring a persistent and reliable messaging experience. This project helped us integrate core Android functionalities with advanced features to create a robust messaging platform.",
+    
+    // Features list
+    "features": [
+      {
+        "title": "Real-Time Messaging",
+        "description": "Instant communication powered by Firebase"
+      },
+      {
+        "title": "Authentication & Authorization",
+        "description": "Secure login via mobile number verification"
+      },
+      {
+        "title": "Chat History Storage",
+        "description": "SQLite database ensures persistent conversation records"
+      },
+      {
+        "title": "User-Friendly UI",
+        "description": "Seamless and intuitive interface for easy navigation"
+      },
+      {
+        "title": "Push Notifications",
+        "description": "Real-time message alerts for active conversations"
+      }
+    ],
+    
+    // Technologies list
+    "technologies": [
+      {
+        "category": "Frontend",
+        "details": "Android (Java/Kotlin)"
+      },
+      {
+        "category": "Backend",
+        "details": "Firebase & Google Cloud Platform (GCP)"
+      },
+      {
+        "category": "Database",
+        "details": "SQLite"
+      }
+    ],
+    
+    // Skills showcased
+    "skills": [
+      "Android Development", "Firebase", "Google Cloud Platform (GCP)", "SQLite"
+    ],
+    
+    // Links
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/username/whatsapp-clone",
+        "title": "Source Code",
+        "description": "View the complete source code on GitHub"
+      }
+      // {
+      //   "type": "external",
+      //   "url": "https://whatsapp-clone-demo.example.com",
+      //   "title": "Live Demo",
+      //   "description": "Try the messaging application online"
+      // }
+    ]
+  },
+  {
+    "id": "enigma-simulation",
+    "title": "Enigma Machine Simulation",
+    "image": "/enigma.webp",
+    "timeline": "Jun 2020 - Oct 2020",
+    "shortDescription": "A C++ simulation of the Enigma machine for demonstrating encryption.",
+    "description": "As part of a Discrete Mathematics course at Birla Vishvakarma Mahavidyalaya, our team delivered a presentation on the Enigma machine. I contributed by developing a C++ simulation that provided a hands-on demonstration of its functionality and encryption process. The project showcased how the Enigma cipher works, including rotor mechanisms and letter substitutions, helping to illustrate its historical significance in cryptography.",
+    
+    // Features list
+    "features": [
+      {
+        "title": "Enigma Machine Simulation",
+        "description": "Accurately mimics the encryption process of the original Enigma machine"
+      },
+      {
+        "title": "Rotor Mechanism",
+        "description": "Implements rotor-based encryption for message scrambling"
+      },
+      {
+        "title": "User Input Encryption & Decryption",
+        "description": "Allows users to input text and observe its transformation"
+      },
+      {
+        "title": "Configurable Settings",
+        "description": "Supports different rotor settings to simulate various Enigma models"
+      }
+    ],
+    
+    // Technologies list
+    "technologies": [
+      {
+        "category": "Programming Languages",
+        "details": "C, C++"
+      },
+      {
+        "category": "Libraries",
+        "details": "Standard Template Library (STL)"
+      }
+    ],
+    
+    // Skills showcased
+    "skills": [
+      "C (Programming Language)", "C++", "Standard Template Library (STL)", "Cryptography", "Algorithmic Problem Solving"
+    ],
+    
+    // Links
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/username/enigma-simulation",
+        "title": "Source Code",
+        "description": "View the complete source code on GitHub"
+      }
+      // {
+      //   "type": "external",
+      //   "url": "https://enigma-simulation-demo.example.com",
+      //   "title": "Live Demo",
+      //   "description": "Try the Enigma simulation online"
+      // }
+    ]
+  },
+  {
+    "id": "bluetooth-car",
+    "title": "Bluetooth-Controlled Car",
+    "image": "/bluetooth-big.jpeg",
+    "timeline": "Jul 2019 - Nov 2019",
+    "shortDescription": "An Arduino-based Bluetooth-controlled car for hands-on embedded systems learning.",
+    "description": "As part of our first-year project in Semiconductor Technology at Birla Vishvakarma Mahavidyalaya, we designed and developed a Bluetooth-controlled car using Arduino. This project provided hands-on experience with microcontrollers and hardware interfacing, enhancing our understanding of embedded systems. It also allowed us to apply theoretical knowledge to real-world problem-solving, fostering technical proficiency and teamwork.",
+    
+    // Features list
+    "features": [
+      {
+        "title": "Bluetooth Control",
+        "description": "Allows remote control of the car via a smartphone app"
+      },
+      {
+        "title": "Arduino Integration",
+        "description": "Utilizes an Arduino board for processing and motor control"
+      },
+      {
+        "title": "Motor Driver Circuit",
+        "description": "Controls car movement using an H-bridge motor driver"
+      },
+      {
+        "title": "Hardware-Software Integration",
+        "description": "Seamlessly connects Bluetooth communication with hardware execution"
+      }
+    ],
+    
+    // Technologies list
+    "technologies": [
+      {
+        "category": "Microcontroller",
+        "details": "Arduino"
+      },
+      {
+        "category": "Communication",
+        "details": "Bluetooth module (HC-05/HC-06)"
+      },
+      {
+        "category": "Electronics",
+        "details": "Motor driver circuit, sensors"
+      }
+    ],
+    
+    // Skills showcased
+    "skills": [
+      "Arduino", "Microcontrollers", "Hardware-Software Integration"
+    ],
+    
+    // Links
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/username/bluetooth-car",
+        "title": "Source Code",
+        "description": "View the complete source code on GitHub"
+      }
+      // {
+      //   "type": "external",
+      //   "url": "https://bluetooth-car-demo.example.com",
+      //   "title": "Live Demo",
+      //   "description": "Try the Bluetooth-controlled car in action"
+      // }
+    ]
+  }
+

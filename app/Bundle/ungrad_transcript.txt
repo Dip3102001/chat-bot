@@ -1,0 +1,77 @@
+Birla Vishvakarma Mahavidyalaya (Engineering College)
+(An Autonomous Institution) Vallabh Vidyanagar
+Affiliated to Gujarat Technological University
+Transcript
+
+No: CS/4/TR/2023-2024/5    Date: 15-07-2023
+
+Name: PATEL DIP VIJAYBHAI
+Enrollment No.: 190070107046
+ID. No.: 19CP008
+Programme: B. TECH. COMPUTER ENGINEERING
+Semester and Year of Admission to the Programme: Semester 1, 2019-20
+Semester and Year of leaving the Programme: Semester 2, 2022-23
+Date of Eligibility for the Degree: 22/06/2023
+
+| LEVEL/ SEM | COURSE CODE | COURSE TITLE | CREDITS | LAY'/ SEMESTER | GRADE |
+|---|---|---|---|---|---|
+| 1/1    | BS104    | SEMICONDUCTOR PHYSICS    | 4    | 2019/1    | BB    |
+| 1/1    | BS111    | ADVANCED CALCULUS    | 4    | 2019/1    | AB    |
+| 1/1    | ES103    | BASIC ELECTRICAL ENGINEERING    | 4    | 2019/1    | AA    |
+| 1/1    | ES108    | COMPUTER WORKSHOP    | 1    | 2019/1    | AB    |
+| 1/1    | ES112    | BASICS OF MANUFACTURING PRACTICES    | 1    | 2019/1    | AB    |
+| 1/1    | HS101    | ENGLISH    | 3    | 2019/1    | BB    |
+| 1/2    | BS112    | LINEAR ALGEBRA AND FOURIER SERIES    | 4    | 2019/2    | AA    |
+| 1/2    | ES101    | BASIC ELECTRONICS    | 4    | 2019/2    | AB    |
+| 1/2    | ES105    | PROGRAMMING FOR PROBLEM SOLVING    | 4    | 2019/2    | AA    |
+| 1/2    | ES107    | OPEN SOURCE PLATFORMS AND TOOLS    | 1    | 2019/2    | AA    |
+| 1/2    | ES109    | ENGINEERING GRAPHICS & DESIGN    | 4    | 2019/2    | AA    |
+| 1/2    | HS112    | ENVIRONMENTAL SCIENCE    | 0#    | 2019/2    | PP    |
+| 2/3    | 2CP01    | DATABASE MANAGEMENT SYSTEMS    | 4    | 2020/1    | BB    |
+| 2/3    | 2CP02    | OBJECT ORIENTED PROGRAMMING WITH C++    | 4    | 2020/1    | AB    |
+| 2/3    | 2CP03    | DIGITAL LOGIC AND DESIGN    | 4    | 2020/1    | AB    |
+| 2/3    | 2CP04    | DISCRETE MATHEMATICS    | 4    | 2020/1    | AA    |
+| 2/3    | 2HS01    | PROFESSIONAL SOFT SKILLS    | 2    | 2020/1    | BC    |
+| 2/3    | 2HS02    | ECONOMICS AND MANAGEMENT    | 3    | 2020/1    | AB    |
+| 2/4    | 2BS01    | ORDINARY DIFFERENTIAL EQUATIONS AND STATISTICS    | 4    | 2020/2    | AA    |
+| 2/4    | 2CP05    | COMPUTER ORGANIZATION & ARCHITECTURE    | 4    | 2020/2    | AA    |
+| 2/4    | 2CP06    | DATA STRUCTURES AND ALGORITHMS    | 4    | 2020/2    | AA    |
+| 2/4    | 2CP07    | COMPUTER NETWORKS    | 4    | 2020/2    | AA    |
+| 2/4    | 2CP08    | WEB TECHNOLOGIES    | 4    | 2020/2    | AA    |
+| 2/4    | 2CP09    | PROGRAMMING LABORATORY    | 1    | 2020/2    | AA    |
+| 3/5    | 3CP01    | INFORMATION SECURITY    | 4    | 2021/1    | BB    |
+| 3/5    | 3CP02    | DESIGN AND ANALYSIS OF ALGORITHMS    | 4    | 2021/1    | BC    |
+| 3/5    | 3CP03    | OBJECT ORIENTED PROGRAMMING USING JAVA    | 4    | 2021/1    | BB    |
+| 3/5    | 3CP04    | OPERATING SYSTEMS    | 4    | 2021/1    | BB    |
+| 3/5    | 3CP05    | ADVANCED PROGRAMMING LABORATORY    | 1    | 2021/1    | AA    |
+| 3/5    | 3EC82    | APPLIED ELECTRONICS    | 3    | 2021/1    | BB    |
+| 3/6    | 3CP06    | THEORY OF COMPUTATION    | 3    | 2021/2    | AB    |
+| 3/6    | 3CP07    | SOFTWARE ENGINEERING    | 4    | 2021/2    | BB    |
+| 3/6    | 3CP08    | DESIGN ENGINEERING    | 1    | 2021/2    | AB    |
+| 3/6    | 3CP09    | CAPSTONE COURSE    | 1    | 2021/2    | BC    |
+| 3/6    | 3CP10    | MACHINE LEARNING    | 4    | 2021/2    | AB    |
+| 3/6    | 3CP42    | ADVANCED JAVA TECHNOLOGY    | 4    | 2021/2    | BB    |
+| 3/6    | 3EC83    | EMBEDDED SYSTEMS AND IOT    | 4    | 2021/2    | AB    |
+| 3/6    | 3HS01    | ETHICS AND CONSTITUTION OF INDIA    | 0#    | 2021/2    | PP    |
+| 4/7    | 4CP01    | COMPILER DESIGN    | 4    | 2022/1    | AA    |
+| 4/7    | 4CP02    | DATA ANALYTICS AND VISUALIZATION    | 4    | 2022/1    | AB    |
+| 4/7    | 4CP31    | PROJECT    | 3    | 2022/1    | AA    |
+| 4/7    | 4CP49    | ANDROID PROGRAMMING    | 4    | 2022/1    | AA    |
+| 4/7    | 4CP50    | PYTHON PROGRAMMING    | 4    | 2022/1    | AA    |
+| 4/8    | 4CP99    | FULL SEMESTER EXTERNAL PROJECT    | 19    | 2022/2    | AA    |
+
+Total Credits Earned: 155
+Cumulative Performance Index (CPI): 9.19
+Class Awarded: FIRST CLASS WITH DISTINCTION
+Equivalent Percentage: 86.90
+Date of Issue: 15-07-2023
+
+Notes:
+1. The medium of instruction is English.
+2. The class awarded with his/her B.Tech degree is determined by his/her final CPI as given below:
+   - FIRST CLASS WITH DISTINCTION: CPI not less than 7.10
+   - FIRST CLASS: CPI less than 7.10 but not less than 6.50
+   - SECOND CLASS: CPI less than 6.50 but not less than 5.50
+   - PASS CLASS: CPI less than 5.50
+3. The formula for conversion of CPI into equivalent percentage is as follows:
+   Equivalent Percentage = (CPI - 0.5) * 10

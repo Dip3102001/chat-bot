@@ -1,0 +1,322 @@
+{
+  "skillCategories": [
+    {
+      "category": "Technical Skills",
+      "skills": [
+        {
+          "subCategory": "Programming Languages",
+          "items": [
+            {
+              "skill": "Python",
+              "projects": ["Sea Ice Classification at ISRO", "Image Colorization", "Clickbait Generation"]
+            },
+            {
+              "skill": "C++",
+              "projects": ["Camera Placement Optimization", "Enigma Machine Simulation", "ECE 650 course"]
+            },
+            {
+              "skill": "C",
+              "projects": ["Enigma Machine Simulation"]
+            },
+            {
+              "skill": "JavaScript",
+              "projects": ["WhatsApp Clone", "Image Colorization"]
+            },
+            {
+              "skill": "Java/Kotlin",
+              "projects": ["WhatsApp Clone (Android development)"]
+            }
+          ]
+        },
+        {
+          "subCategory": "Web & Mobile Development",
+          "items": [
+            {
+              "skill": "Angular",
+              "projects": ["Chess Game Application"]
+            },
+            {
+              "skill": "React",
+              "projects": ["Image Colorization mobile application"]
+            },
+            {
+              "skill": "Node.js",
+              "projects": ["Chess Game Application", "Freelance work at Liqnte"]
+            },
+            {
+              "skill": "Flask",
+              "projects": ["Image Colorization mobile application (backend)"]
+            },
+            {
+              "skill": "Tailwind CSS",
+              "projects": ["Chess Game Application"]
+            },
+            {
+              "skill": "Android Development",
+              "projects": ["WhatsApp Clone"]
+            }
+          ]
+        },
+        {
+          "subCategory": "Machine Learning & AI",
+          "items": [
+            {
+              "skill": "Deep Learning",
+              "projects": ["Sea Ice Classification (ISRO)", "Image Colorization", "Clickbait projects"]
+            },
+            {
+              "skill": "PyTorch",
+              "projects": ["Sea Ice Classification", "Clickbait Generation"]
+            },
+            {
+              "skill": "TensorFlow",
+              "projects": ["Image Colorization"]
+            },
+            {
+              "skill": "Natural Language Processing",
+              "projects": ["Clickbait Generation and Classification"]
+            },
+            {
+              "skill": "Transformer Models",
+              "projects": ["Clickbait Generation"]
+            },
+            {
+              "skill": "GANs (Generative Adversarial Networks)",
+              "projects": ["Image Colorization"]
+            },
+            {
+              "skill": "CONV-LSTM",
+              "projects": ["Sea Ice Classification at ISRO"]
+            },
+            {
+              "skill": "CNN (Convolutional Neural Networks)",
+              "projects": ["Sea Ice Classification (ResNet-34)"]
+            }
+          ]
+        },
+        {
+          "subCategory": "Database Systems",
+          "items": [
+            {
+              "skill": "MySQL",
+              "projects": ["Freelance work at Liqnte"]
+            },
+            {
+              "skill": "SQLite",
+              "projects": ["WhatsApp Clone (chat history storage)"]
+            }
+          ]
+        },
+        {
+          "subCategory": "Cloud & Backend",
+          "items": [
+            {
+              "skill": "Firebase",
+              "projects": ["WhatsApp Clone (real-time messaging)"]
+            },
+            {
+              "skill": "Google Cloud Platform (GCP)",
+              "projects": ["WhatsApp Clone"]
+            },
+            {
+              "skill": "API Integration",
+              "projects": ["ISRO internship (ASF-VERTEX)", "Web development"]
+            }
+          ]
+        },
+        {
+          "subCategory": "Tools & Technologies",
+          "items": [
+            {
+              "skill": "Git",
+              "projects": ["Multiple projects (version control)"]
+            },
+            {
+              "skill": "Linux",
+              "projects": ["Camera Placement Optimization"]
+            },
+            {
+              "skill": "ESA SNAP (GPT)",
+              "projects": ["ISRO internship (SAR image processing)"]
+            },
+            {
+              "skill": "ASF-VERTEX",
+              "projects": ["ISRO internship (data acquisition)"]
+            },
+            {
+              "skill": "ArcGIS",
+              "projects": ["ISRO internship (spatial data processing)"]
+            },
+            {
+              "skill": "Arduino",
+              "projects": ["Bluetooth-Controlled Car"]
+            }
+          ]
+        },
+        {
+          "subCategory": "Data Processing & Analysis",
+          "items": [
+            {
+              "skill": "Image Processing",
+              "projects": ["Sea Ice Classification", "Image Colorization"]
+            },
+            {
+              "skill": "Shell Scripting",
+              "projects": ["ISRO internship (automating SAR image downloads)"]
+            },
+            {
+              "skill": "Automated Data Processing",
+              "projects": ["ISRO internship"]
+            },
+            {
+              "skill": "Text Analytics",
+              "projects": ["MSCI 641 course (98 grade)"]
+            }
+          ]
+        },
+        {
+          "subCategory": "Algorithmic & Mathematics Skills",
+          "items": [
+            {
+              "skill": "Algorithm Design & Analysis",
+              "projects": ["ECE 606 course (78 grade)"]
+            },
+            {
+              "skill": "Graph Algorithms",
+              "projects": ["Camera Placement Optimization"]
+            },
+            {
+              "skill": "Linear Algebra",
+              "projects": ["Foundation for machine learning projects"]
+            },
+            {
+              "skill": "Probability & Statistics",
+              "projects": ["Used in machine learning models"]
+            },
+            {
+              "skill": "Optimization",
+              "projects": ["Currently studying in ECE 602 course"]
+            },
+            {
+              "skill": "Multivariate Calculus",
+              "projects": ["Foundation for machine learning projects"]
+            }
+          ]
+        },
+        {
+          "subCategory": "Software Engineering Skills",
+          "items": [
+            {
+              "skill": "Software Engineering Methods & Tools",
+              "projects": ["ECE 650 course (91 grade)"]
+            },
+            {
+              "skill": "System Design",
+              "projects": ["Camera Placement Optimization"]
+            },
+            {
+              "skill": "Multiprocessing & Multithreading",
+              "projects": ["Camera Placement Optimization"]
+            },
+            {
+              "skill": "Inter-Process Communication",
+              "projects": ["Camera Placement Optimization"]
+            },
+            {
+              "skill": "Unit & Integration Testing",
+              "projects": ["Camera Placement Optimization"]
+            },
+            {
+              "skill": "Database Schema Design",
+              "projects": ["Freelance work at Liqnte"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Domain-Specific Knowledge",
+      "skills": [
+        {
+          "skill": "Remote Sensing",
+          "sources": ["ISRO internship"]
+        },
+        {
+          "skill": "SAR Image Analysis",
+          "sources": ["ISRO internship"]
+        },
+        {
+          "skill": "Cryptography",
+          "sources": ["Enigma Machine Simulation project"]
+        },
+        {
+          "skill": "Financial & Managerial Accounting",
+          "sources": ["BE 601 course (91 grade)"]
+        },
+        {
+          "skill": "Intelligent Systems Design",
+          "sources": ["ECE 657 course (96 grade)"]
+        },
+        {
+          "skill": "Data & Knowledge Modeling",
+          "sources": ["Currently studying in ECE 657A course"]
+        },
+        {
+          "skill": "Image Processing & Visual Communication",
+          "sources": ["Currently studying in ECE 613 course"]
+        }
+      ]
+    },
+    {
+      "category": "Soft Skills",
+      "skills": [
+        {
+          "skill": "Analytical Thinking & Problem-Solving",
+          "evidence": ["Academic career", "Personal statement"]
+        },
+        {
+          "skill": "Adaptability & Open-Mindedness",
+          "evidence": ["Manali trip experience"]
+        },
+        {
+          "skill": "Persistence & Continuous Learning",
+          "evidence": ["Chess learning experience", "Self-study of AI"]
+        },
+        {
+          "skill": "Creativity & Innovative Thinking",
+          "evidence": ["Cooking and programming parallels"]
+        },
+        {
+          "skill": "Leadership & Team Collaboration",
+          "evidence": ["Internships at Nesco and ISRO"]
+        },
+        {
+          "skill": "Competitive Spirit",
+          "evidence": ["Participation in Google Code Jam"]
+        },
+        {
+          "skill": "Self-Motivation & Initiative",
+          "evidence": ["Proactive learning of AI concepts"]
+        },
+        {
+          "skill": "Attention to Detail",
+          "evidence": ["Academic excellence", "Technical precision"]
+        }
+      ]
+    }
+  ],
+  "educationSources": [
+    "University of Waterloo",
+    "Birla Vishvakarma Mahavidyalaya"
+  ],
+  "professionalExperiences": [
+    "ISRO",
+    "Nesco",
+    "Cistel",
+    "Liqnte"
+  ],
+  "otherSources": [
+    "Personal projects",
+    "Self-directed learning initiatives"
+  ]
+}
