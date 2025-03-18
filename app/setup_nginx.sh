@@ -17,10 +17,10 @@ echo "🚀 Setting up Nginx reverse proxy for $SERVER_NAME on port $PORT..."
 cat > $CONFIG_FILE <<EOF
 server {
     listen 80;
-    server_name $SERVER_NAME;
+    server_name _;
 
     location / {
-        proxy_pass http://127.0.0.1:$PORT;
+        proxy_pass http://localhost:$PORT;
         proxy_set_header Host \$host;
         proxy_set_header X-Real-IP \$remote_addr;
         proxy_set_header X-Forwarded-For \$proxy_add_x_forwarded_for;
@@ -30,7 +30,7 @@ server {
 EOF
 
 # Enable site by creating a symlink
-ln -s $CONFIG_FILE /etc/nginx/sites-enabled/
+ln -s $CONFIG_FILE /etc/nginx/sites-enabled/default
 
 # Test Nginx configuration
 nginx -t
