@@ -22,6 +22,7 @@ sudo apt install nginx -y
 sudo systemctl start nginx
 sudo systemctl status nginx
 
+sudo bash ./setup_nginx.sh
 
 
 
