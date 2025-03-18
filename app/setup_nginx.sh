@@ -30,7 +30,7 @@ server {
 EOF
 
 # Enable site by creating a symlink
-ln -s $CONFIG_FILE /etc/nginx/sites-enabled/default
+ln -s $CONFIG_FILE /etc/nginx/sites-enabled/
 
 # Test Nginx configuration
 nginx -t
